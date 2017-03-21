@@ -1,2 +1,3 @@
 user.info: aaa
 user.age: 15
+user.passwd: '{cipher}3b9473d32c79cf9894872fd9090419955bdcafb9e5b8798721ce6cd02e710503'
